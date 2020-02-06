@@ -3,5 +3,6 @@ Calibration Helper Plugin for Pupil Labs to assist in 9-point calibration for a 
 
 Future Ideas for Implementation:
 
+ - Make sizes portion of window size as position
  - Make sizes and positions variable based on target distance
  - Make target distance a param in window
